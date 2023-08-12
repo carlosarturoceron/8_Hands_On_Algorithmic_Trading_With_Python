@@ -1,0 +1,6 @@
+pandas
+pandas-datareader
+matplotlib
+yfinance
+quandl
+ipykernel
