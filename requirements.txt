@@ -3,4 +3,5 @@ pandas-datareader
 matplotlib
 yfinance
 quandl
+edgar   # U.S. SEC company filings at https://github.com/joeyism/py-edgar
 ipykernel
